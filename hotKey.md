@@ -34,9 +34,24 @@ F11                     添加标签
 
 shift + enter           跳到下一行
 ```
+
+```
+
+ctrl + shift + -/+      代码折叠/展开
+ 
+ctrl + n                全局查找类 （*）
+
+alt + ins               生成代码， 同右键new
+
+alt + shift + c         最近修改代码
+
+```
 ###文档操作
 ``` 
 shift + F6              重命名
+
 alt + F1                查看文件所在目录、show in explorer
+
+ctrl +　shift + n       全局查找文件（*）
 
 ``` 
