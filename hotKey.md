@@ -4,9 +4,9 @@ ctrl + delete           删除至文字结束
 ctrl + backSpace        删除至文字开头
 ctrl + b / ctrl + click 快速打开该方法或类
 ctrl + n                全局查找类 （*）
-ctrl + g                查找行
-
-ctrl + alt + b          跳到该方法实现处
+ctrl + g                查找行
+ctrl + .                代码折叠
+ctrl + alt + b          跳到该方法实现处
 ctrl + alt + t          用if 或 其他 包裹选中代码
 
 ctrl + shift + i        显示当前方法详细信息
@@ -28,3 +28,5 @@ ctrl + shift + up/down  代码向上/向下
 shift + enter           跳到下一行
 shift + F6              重命名
 F11                     添加标签
+
+alt + 7  || Ctrl + F12  查看当前文件的结构
